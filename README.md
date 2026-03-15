@@ -10,6 +10,14 @@ GhostFence demostrates a low cost sensing architecture that can deter theives at
 
 The system generates alerts, reports and monitoring dashboards to help farmers indentify potential intrusion on farm lands as most farmers do not live in farming zones and often discover theft when they visit next day.
 
+#Future Work
+integration with real Iot sensors for advance detection usinh CSI
+Solar powered rural deployments 
+sms alerts to farmers, praedial larcency database to cross reference image capture of thieves 
+Integration with rural security services
+Adoption by Ministry of Agriculture
+Build a global application for Caribbean, Latin America and Africa. 
+
 
 Other Use Cases: 
 Use Cases:
