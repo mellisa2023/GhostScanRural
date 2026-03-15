@@ -1,8 +1,13 @@
 # GhostFence
 A prototype farming security system that detects potential farm intrusions using ambient multisignal inferences. 
-Workspace
 Overview
-Ghost Fence is an AI security system that sees, thinks and calls. The system fuses multiple signals such as motion detection, smart sensor events, and authorized device presence to infer possible human activity and generate alerts that will help farmers to monitor their farm zones and alert security/police in incidents of unauthorized intrusion . 
+Ghost Fence is an AI security system that sees, thinks and calls. The system fuses multiple signals such as motion detection, smart sensor events, and authorized device presence to infer possible human activity and generate alerts that will help farmers to monitor their farm zones and alert security/police in incidents of unauthorized intrusion,
+
+
+Praedial Larceny is a major issue in Jamaica. Theft of agriculture produce, livestock is widespread in rural areas. Praedial Larceny affects farmer's income, threatens national food security and discourages investment in agriculture. Most farmers lack affordable monitoring systems for large farmstead/agriculture properties. 
+
+GhostFence demostrates a low cost sensing architecture that can deter theives at the mention of advance or emerging technology and asist in monitoring late night unusal activities in farming zones. 
+
 
 Other Use Cases: 
 Use Cases:
