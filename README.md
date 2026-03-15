@@ -1,5 +1,5 @@
-# GhostScanRural
-Low cost monitoring demo system/prototype that helps farmers detect possible unauthorized activity on their farms using ambient sensing and AI driven signal analysis. This prototype simulates Wifi sensing (CSI), mimicking a primitive Receive Signal Strength Indication 
+# GhostFence
+A prototype farming security system that detects potential farm intrusions using ambient multisignal inferences. 
 Workspace
 Overview
 pnpm workspace monorepo using TypeScript. Each package manages its own dependencies.
