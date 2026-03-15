@@ -1,0 +1,31 @@
+This prototype uses a lightweight web-based architecture designed for rapid experimentation.
+
+*Frontend
+
+HTML
+
+CSS
+
+JavaScript
+
+Chart.js for data visualization
+
+*System Components
+
+Motion detection engine (simulation)
+
+Sensor event simulator
+
+Authorized device presence simulator
+
+Signal fusion inference engine
+
+Dashboard interface
+
+*Deployment
+
+Replit
+
+GitHub
+
+Use Cases
