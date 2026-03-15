@@ -8,7 +8,7 @@ Ghost Fence is an AI security system that sees, thinks and calls. The system fus
 
 Praedial Larceny is a major issue in Jamaica. Theft of agriculture produce, livestock is widespread in rural areas. Praedial Larceny affects farmer's income, threatens national food security and discourages investment in agriculture. Most farmers lack affordable monitoring systems for large farmstead/agriculture properties. 
 
-GhostFence demostrates a low cost sensing architecture that can deter theives at the mention of advance or emerging technology and asist in monitoring late night unusal activities in farming zones. 
+GhostFence demostrates a low cost sensing architecture that can deter theives at the mention of advance or emerging technology and assist in monitoring late night unusal activities in farming zones. 
 
 The system generates alerts, reports and monitoring dashboards to help farmers indentify potential intrusion on farm lands as most farmers do not live in farming zones and often discover theft when they visit next day.
 
